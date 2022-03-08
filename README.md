@@ -1,0 +1,2 @@
+# fastapi-base
+ basic framework
